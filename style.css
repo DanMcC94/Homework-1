@@ -67,11 +67,9 @@ media marketing paramaters*/
     color: #ffffff;
 }
 
-
 .search-reputation-socialmedia img {
     max-height: 200px;
 }
-
 
 .search-reputation-socialmedia h2 {
     margin-bottom: 20px;
@@ -87,7 +85,6 @@ media marketing paramaters*/
     float: right;
     margin-left: 25px;
 }
-
 
 /*I'm actually not sure where this goes*/
 a {
@@ -119,19 +116,16 @@ than keeping it as seperate identical entries*/
     color: #ffffff;
 }
 
-
 .benefit-pictures h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
 
 .benefit-pictures img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
 
 .footer {
     padding: 30px;
