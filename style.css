@@ -88,13 +88,8 @@ media marketing paramaters*/
     margin-left: 25px;
 }
 
-* {
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
-}
 
-
+/*I'm actually not sure where this goes*/
 a {
     color: #ffffff;
     text-decoration: none;
@@ -103,6 +98,10 @@ a {
 p {
     font-size: 16px;
 }
+/*End of confusion*/ 
+
+/*Consolidated code to make it more efficient by applying it to all the benefits rather 
+than keeping it as seperate identical entries*/
 
 .benefits {
     margin-right: 20px;
@@ -133,14 +132,6 @@ p {
     max-width: 150px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
 
 .footer {
     padding: 30px;
